@@ -21,6 +21,10 @@
 ### 📊 [SQL Data Analytics Portfolio](https://github.com/sebatabash/SQL-Data-Analytics-Portfolio)
 > **End-to-End Academic & Performance Analytics**
 - Advanced SQL analysis (`GROUP BY`, `Subqueries`, dynamic aggregations) and structured database schema design.
+- 
+### 🏢 [Building Management System]
+> **Object-Oriented Enterprise System Design**
+- Enterprise software architecture in **Java** utilizing core Object-Oriented Programming (OOP) design patterns.
 
 
 ---
