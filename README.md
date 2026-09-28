@@ -22,13 +22,6 @@
 > **End-to-End Academic & Performance Analytics**
 - Advanced SQL analysis (`GROUP BY`, `Subqueries`, dynamic aggregations) and structured database schema design.
 
-### 🏢 [Building Management System](https://github.com/sebatabash/Building-Management-System)
-> **Object-Oriented Enterprise System Design**
-- Enterprise software architecture in **Java** utilizing core Object-Oriented Programming (OOP) design patterns.
-
-### 🔍 [PatternSearch Engine](https://github.com/sebatabash/PatternSearch)
-> **Algorithmic Data Retrieval Pipeline**
-- Algorithmic implementation in **Java** focused on high-efficiency data structures and pattern searching.
 
 ---
 ## 📜 Certifications
