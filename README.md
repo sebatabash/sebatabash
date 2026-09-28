@@ -22,7 +22,7 @@
 > **End-to-End Academic & Performance Analytics**
 - Advanced SQL analysis (`GROUP BY`, `Subqueries`, dynamic aggregations) and structured database schema design.
 - 
-### 🏢 [Building Management System]
+### 🏢 [Building Management System](https://github.com/sebatabash/Java-OOP-and-Algorithms)
 > **Object-Oriented Enterprise System Design**
 - Enterprise software architecture in **Java** utilizing core Object-Oriented Programming (OOP) design patterns.
 
