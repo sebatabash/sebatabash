@@ -26,6 +26,10 @@
 > **Object-Oriented Enterprise System Design**
 - Enterprise software architecture in **Java** utilizing core Object-Oriented Programming (OOP) design patterns.
 
+### 📈 [Advanced Excel Data Analytics](https://github.com/sebatabash/Advanced-Excel-Data-Analytics)
+> **Business Intelligence & Dynamic Excel Dashboards**
+- Advanced Excel modeling featuring Power Query data transformation, dynamic lookup formulas, Pivot Tables, and interactive dashboard design.
+
 
 ---
 ## 📜 Certifications
